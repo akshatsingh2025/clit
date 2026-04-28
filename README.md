@@ -1,0 +1,2 @@
+# .clit
+Upcoming app idea
